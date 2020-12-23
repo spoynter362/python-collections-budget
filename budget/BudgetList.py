@@ -31,5 +31,7 @@ class BudgetList:
 
         print('The count of all expenses: ' + str(len(myBudgetList))
 
-    if __name__ == "__main__" :
+    if __name__ == "__main__":
         main()
+    else:
+        pass
